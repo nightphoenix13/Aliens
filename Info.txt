@@ -1,0 +1,11 @@
+Alien(RACE, ALIGNMENT, ORIGIN, BODY)
+---BODY---
+Humanoid(ARMS, LEGS, FINGERS, EYES, BodyType(SIZE, CONSISTENCY))
+Cyborg(DETAILS)
+
+Adipose(Adipose, Nuetral, Adipose 3, Humanoid(2, 2, 5, 2, (Diminutive, Fatty Tissue)))
+Carrionite(Carrionite, Evil, Rexel 4, Humanoid(2, 2, 5, 2, (Medium, Solid)))Shapechange, Flying
+Dalek(Dalek, Evil, Skaro, Cyborg(One-eyed, tentacled mutant encapsulated in a Dalekanium housing(Medium, Solid))Flying, Temporal Shift
+Cybermen(Cybermen, Evil, Mondas(Earth's Twin Planet), Humanoid(2, 2, 5, 2, (Medium, Solid)), Cyborg(Once humans, physically and mentally "upgraded" to Cybermen. Stripped of all emotion)
+Catkind(Catkind, Nuetral, New Savannah, Humanoid(2, 2, 5, 2 (Medium, Solid))Cat()
+Slitheen(Slitheen, Evil, Raxacoricofallapatorius, Humanoid(2, 2, 3, 2, (Medium, Solid))
